@@ -1,6 +1,6 @@
 {
   "name": "greek-subs-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Download greek subs like never before.",
   "main": "main.js",
   "dependencies": {
