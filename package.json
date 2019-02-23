@@ -4,7 +4,7 @@
   "description": "Download greek subs like never before.",
   "main": "main.js",
   "dependencies": {
-    "greek-subs": "file:../node-greek-subs",
+    "greek-subs": "0.0.3",
     "meow": "^5.0.0",
     "signale": "^1.3.0"
   },
@@ -21,5 +21,13 @@
     "greek",
     "subs",
     "cli"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-rokabilis/node-greek-subs-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alex-rokabilis/node-greek-subs-cli/issues"
+  },
+  "homepage": "https://github.com/alex-rokabilis/node-greek-subs-cli#readme"
 }
