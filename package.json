@@ -1,0 +1,25 @@
+{
+  "name": "greek-subs-cli",
+  "version": "0.0.1",
+  "description": "Download greek subs like never before.",
+  "main": "main.js",
+  "dependencies": {
+    "greek-subs": "file:../node-greek-subs",
+    "meow": "^5.0.0",
+    "signale": "^1.3.0"
+  },
+  "bin": {
+    "greek-subs": "./index.js"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandros Michailidis",
+  "license": "ISC",
+  "keywords": [
+    "greek",
+    "subs",
+    "cli"
+  ]
+}
